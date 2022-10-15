@@ -10,11 +10,11 @@ p {
 }
 
 a:hover {
-    color: rgb(60, 0, 225)
+    color: rgb(60, 0, 225);
 }
 
 a:link {
-    color: rgb(102, 178, 255)
+    color: rgb(102, 178, 255);
 }
 
 nav {
