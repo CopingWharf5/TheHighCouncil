@@ -20,6 +20,6 @@ a:link {
 nav {
      font-size: 1vw;
      display: flex;
-     flex-direction: row
+     flex-direction: row;
 }
      
